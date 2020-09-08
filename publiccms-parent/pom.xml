@@ -24,7 +24,7 @@
         <version.spring>5.2.6.RELEASE</version.spring>
         <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web -->
         <!-- https://projects.spring.io/spring-boot/ -->
-        <version.springBoot>2.2.7.RELEASE</version.springBoot>
+        <version.springBoot>2.3.0.RELEASE</version.springBoot>
         <!-- http://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
         <!-- http://hc.apache.org/downloads.cgi -->
         <version.httpclient>4.5.10</version.httpclient>
@@ -66,7 +66,7 @@
         <!-- http://mvnrepository.com/artifact/commons-codec/commons-codec -->
         <version.codec>1.13</version.codec>
         <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core -->
-        <version.log4j>2.13.0</version.log4j>
+        <version.log4j>2.13.2</version.log4j>
         <!-- https://mvnrepository.com/artifact/com.drewnoakes/metadata-extractor -->
         <version.extractor>2.12.0</version.extractor>
         <!-- http://mvnrepository.com/artifact/eu.bitwalker/UserAgentUtils -->
